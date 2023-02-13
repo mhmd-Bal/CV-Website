@@ -1,0 +1,62 @@
+.Whole-block{
+  font-family: arial;
+  padding-left: 50px;
+}
+
+.Personal-info{
+
+}
+
+.Image-block{
+  display: inline-block;
+  vertical-align: top;
+}
+
+.Image{
+  border-radius: 50px;
+}
+
+.Name-and-contact-block{
+  display: inline-block;
+}
+
+.Name{
+  text-align: left;
+  font-size: 30px;
+  font-weight: bold;
+}
+
+.Details{
+  font-size: 13px;
+}
+
+.Table-text{
+  padding-top: 20px;
+}
+
+.Description-block{
+
+}
+
+.Hobbies-block{
+
+}
+
+.Experiences-block{
+  margin-bottom: 20px;
+}
+
+.Education-block{
+
+}
+
+.Skills-certs-block{
+
+}
+
+.Block-title{
+  font-size: 25px;
+  font-weight: bold;
+  text-align: left;
+}
+
